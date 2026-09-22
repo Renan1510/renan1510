@@ -9,8 +9,6 @@
 
 ### Software Engineering Student • Developer • IT Support
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
 </div>
 
 ---
