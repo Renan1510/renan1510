@@ -13,7 +13,8 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/712cc656-799d-4254-aa8c-2afa7a0a5c6f" />
+                                                          Sobre mim
 
 Olá! Meu nome é **Renan de Paula Landim**.
 
