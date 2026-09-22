@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="crie_fazendo_favor_GIF_com_ani.mp4" width="100%">
+<img src="github_animation_original.gif" width="100%">
 
 </div>
 <div align="center">
