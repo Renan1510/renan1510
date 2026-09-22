@@ -7,7 +7,7 @@
 
 # 👨‍💻 Renan de Paula Landim
 
-### Software Engineering Student • Developer • IT Support
+
 
 </div>
 
